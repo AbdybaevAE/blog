@@ -4,8 +4,6 @@ date: 2021-02-01 04:29:28
 tags:
 ---
 
-Hello everyone!
-
 In this article we will talk about **Union Find.**
 
 Let's imagine that we have set of N elements, and some elements are connected. Elements that are connected produce some subset. Your question is to find number of distinct subsets or to find set with maximum number of members.

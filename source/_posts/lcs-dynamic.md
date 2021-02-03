@@ -4,12 +4,8 @@ date: 2021-02-01 16:57:05
 tags:
 ---
 
-Hello everyone!
-
-In this article we talk about Longest Common Sunsequence.
-
+In this article we will talk about Longest Common Sunsequence. 
 Given next problem:
-
 *Given two words word1 and word2, find the minimum number of steps required to make word1 and word2 the same, where in each step you can delete one character in either string.*
 
 ```txt

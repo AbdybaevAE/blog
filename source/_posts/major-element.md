@@ -4,9 +4,7 @@ date: 2021-01-31 20:49:40
 tags:
 ---
 
-Hello everyone!
-
-In this article I'm gonna talk about finding **majority element** in array. 
+In this article we will talk about finding **majority element** in array. 
 
 Major element is an element that apeears in array more than half of array size times.
 
