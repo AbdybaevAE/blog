@@ -1,6 +1,6 @@
 ---
 title: Trees | Binary Search Tree
-date: 2021-02-06 03:38:54
+date: 2021-02-04 03:38:54
 tags:
 ---
 

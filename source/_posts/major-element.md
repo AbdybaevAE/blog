@@ -1,6 +1,6 @@
 ---
 title: Major element in array
-date: 2021-01-31 20:49:40
+date: 2021-01-30 20:49:40
 tags:
 ---
 
