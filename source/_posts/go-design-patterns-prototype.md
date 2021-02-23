@@ -1,6 +1,6 @@
 ---
 title: Design Patterns | Prototype
-date: 2021-02-23 13:55:19
+date: 2021-02-08 13:55:19
 tags:
 ---
 **Creational** pattern - **Prototype**

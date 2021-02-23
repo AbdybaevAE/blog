@@ -42,7 +42,7 @@ COMMIT;
 
 The key for lock is `FOR UPDATE` statements, that locks rows and other transactions considering this rows waits until lock is released. 
 
-**Automatically detecting lost update** is one of the the way to deal sutuation. In this case database automatically find losted updates and abort transaction or give another try again. 
+**Automatically detecting lost update** is one of the the way to deal situation. In this case database automatically find losted updates and abort transaction or give another try again. 
 
 If you don't use transactions it's possible to prevent lost update by doing **compare and set**: 
 
