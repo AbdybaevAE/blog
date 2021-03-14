@@ -1,5 +1,5 @@
 ---
-title: Union Find
+title: Data Structures | Disjoint-Set(Union Find)
 date: 2021-01-31 04:29:28
 tags:
 ---

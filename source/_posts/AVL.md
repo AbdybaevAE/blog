@@ -1,5 +1,5 @@
 ---
-title: Trees | AVL
+title: Data Structures | AVL
 date: 2021-02-06 02:02:44
 tags:
 ---

@@ -1,5 +1,5 @@
 ---
-title: LCS Dynamic Programming | Practise 1
+title: Dynamic Programming | LCS | Practise 1
 date: 2021-02-01 16:57:05
 tags:
 ---

@@ -1,5 +1,5 @@
 ---
-title: Trees | Binary Search Tree
+title: Data Structures | Binary Search Tree
 date: 2021-02-05 03:38:54
 tags:
 ---

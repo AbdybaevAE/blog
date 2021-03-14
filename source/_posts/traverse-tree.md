@@ -1,10 +1,10 @@
 ---
-title: Trees | Traverse binary trees
+title: Algorithms | Traverse Binary Tree
 date: 2021-02-04 06:26:22
 tags:
 ---
 
-In this article we will talk about **Traverse binary trees.**
+In this article we will talk about **Traverse Binary Tree.**
 
 Here is an example of traversing trees with inorder, preorder, postorder 
 

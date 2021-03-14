@@ -1,5 +1,5 @@
 ---
-title: Major element in array
+title: Algorithms | Major Element In Array
 date: 2021-01-30 20:49:40
 tags:
 ---
