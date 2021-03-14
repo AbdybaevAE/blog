@@ -1,5 +1,5 @@
 ---
-title: Dynamic Programming | Practise 1
+title: Dynamic Programming | Practise 3
 date: 2021-03-14 19:06:58
 tags:
 ---

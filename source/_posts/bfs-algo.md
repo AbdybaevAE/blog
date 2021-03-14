@@ -1,5 +1,5 @@
 ---
-title: Breadth First Search | Practise 1
+title: Breadth First Search | Practise 2
 date: 2021-03-06 20:12:48
 tags:
 ---
