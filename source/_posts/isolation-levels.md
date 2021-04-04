@@ -58,7 +58,6 @@ Keep in mind to handle situation when you need to try again if no updates happen
 **Serializable isolation**
 
 The strongest form of guarantee. There are 3 ways to implement this:
-
-1. Serial processing o`f transactions 
+1. Serial processing of transactions 
 2. Two phase locking 
 3. Optimistic concurrency control 
